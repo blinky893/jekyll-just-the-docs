@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: About
 nav_order: 1
 ---
 
