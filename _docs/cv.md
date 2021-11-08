@@ -62,13 +62,12 @@ Term
 
 Term1
 Term2
-: Sin
+: Single description of Term1 and Term2,
   possibly more than one line
 
 Term1
 Term2
-:
- First description of Term1 and Term2,
+: First description of Term1 and Term2,
   possibly more than one line
 
 : Second description of Term1 and Term2,
@@ -93,15 +92,13 @@ Term
 
 Term1
 Term2
-: Sin
+: Single description of Term1 and Term2,
   possibly more than one line
 
 Term1
 Term2
-:
- First description of Term1 and Term2,
+: First description of Term1 and Term2,
   possibly more than one line
 
 : Second description of Term1 and Term2,
-  possibly more than one line
-```
+  possibly more than one line```
