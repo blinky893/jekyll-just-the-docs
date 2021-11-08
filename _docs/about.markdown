@@ -5,6 +5,8 @@ nav_order: 2
 permalink: /about
 ---
 
+![random portrait from unsplash](https://source.unsplash.com/random/8000×600/?portrait)
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
