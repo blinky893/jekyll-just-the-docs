@@ -1,8 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
----
 layout: default
 title: Home
 nav_order: 1
@@ -10,8 +6,7 @@ description: "UX and Technical Writer"
 permalink: /
 ---
 
-# This is an H1 Heading
-
+# Getting started in UX Writing
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages. {: .fs-6 .fw-300 }
