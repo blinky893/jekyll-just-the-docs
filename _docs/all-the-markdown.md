@@ -185,9 +185,9 @@ The final element.
 A collapsible section with markdown
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
-## Heading
+## Heading (line spaces either side)
   
   1. A numbered
   2. list
