@@ -33,7 +33,7 @@ github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
