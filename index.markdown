@@ -6,11 +6,11 @@ description: "UX and Technical Writer"
 permalink: /
 ---
 
-# Getting started in UX Writing
+# I help make digital products easy to use by designing UX copy and building support content 
+
+{: .fs-6 .fw-300 }
 {: .fs-9 }
 
-![](me-headshot-square.jpg)
-I help make digital products easy to use by designing UX copy and building support content {: .fs-6 .fw-300 }
 
 [Get started now](https://www.google.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://www.github.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
